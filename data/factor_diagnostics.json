@@ -1,0 +1,20 @@
+{
+  "momentum": {
+    "coverage_mean": 0.8069,
+    "dispersion_mean": 1.0,
+    "autocorr_1d": 0.9934,
+    "autocorr_21d": 0.8915
+  },
+  "low_vol": {
+    "coverage_mean": 0.9686,
+    "dispersion_mean": 1.0,
+    "autocorr_1d": 0.9962,
+    "autocorr_21d": 0.9418
+  },
+  "composite": {
+    "coverage_mean": 0.8075,
+    "dispersion_mean": 1.0,
+    "autocorr_1d": 0.9928,
+    "autocorr_21d": 0.9092
+  }
+}
