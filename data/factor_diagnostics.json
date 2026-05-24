@@ -1,20 +1,20 @@
 {
   "momentum": {
-    "coverage_mean": 0.8069,
+    "coverage_mean": 0.7994,
     "dispersion_mean": 1.0,
-    "autocorr_1d": 0.9934,
-    "autocorr_21d": 0.8915
+    "autocorr_1d": 0.993,
+    "autocorr_21d": 0.8851
   },
   "low_vol": {
-    "coverage_mean": 0.9686,
+    "coverage_mean": 0.9673,
     "dispersion_mean": 1.0,
-    "autocorr_1d": 0.9962,
-    "autocorr_21d": 0.9418
+    "autocorr_1d": 0.9948,
+    "autocorr_21d": 0.9091
   },
   "composite": {
-    "coverage_mean": 0.8075,
+    "coverage_mean": 0.8,
     "dispersion_mean": 1.0,
-    "autocorr_1d": 0.9928,
-    "autocorr_21d": 0.9092
+    "autocorr_1d": 0.9924,
+    "autocorr_21d": 0.89
   }
 }
