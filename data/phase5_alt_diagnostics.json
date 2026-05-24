@@ -1,0 +1,20 @@
+{
+  "hiring_trends": {
+    "coverage_mean": 0.746,
+    "autocorr_1d": 0.9809,
+    "autocorr_21d": 0.6,
+    "corr_vs_trad": 0.011
+  },
+  "news_sentiment": {
+    "coverage_mean": 0.9424,
+    "autocorr_1d": 0.9843,
+    "autocorr_21d": 0.063,
+    "corr_vs_trad": -0.0213
+  },
+  "alt_composite": {
+    "coverage_mean": 0.746,
+    "autocorr_1d": 0.9789,
+    "autocorr_21d": 0.3039,
+    "corr_vs_trad": -0.0041
+  }
+}

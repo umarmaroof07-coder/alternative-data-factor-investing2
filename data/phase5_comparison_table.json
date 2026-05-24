@@ -1,0 +1,46 @@
+{
+  "traditional": {
+    "label": "Traditional (Net)",
+    "cagr": 0.0855,
+    "ann_vol": 0.1115,
+    "sharpe": 0.7921,
+    "sortino": 0.99,
+    "max_drawdown": -0.1181,
+    "calmar": 0.7242
+  },
+  "enhanced": {
+    "label": "Enhanced (Net)",
+    "cagr": 0.1426,
+    "ann_vol": 0.1156,
+    "sharpe": 1.2107,
+    "sortino": 1.5695,
+    "max_drawdown": -0.1377,
+    "calmar": 1.0352
+  },
+  "benchmark": {
+    "label": "EW Benchmark",
+    "cagr": 0.1249,
+    "ann_vol": 0.1509,
+    "sharpe": 0.8489,
+    "sortino": 1.1762,
+    "max_drawdown": -0.2111,
+    "calmar": 0.5918
+  },
+  "trad_relative": {
+    "label": "Traditional vs BM",
+    "alpha_vs_benchmark": -0.0398,
+    "information_ratio": -0.3651,
+    "tracking_error": 0.109
+  },
+  "enh_relative": {
+    "label": "Enhanced vs BM",
+    "alpha_vs_benchmark": 0.0119,
+    "information_ratio": 0.12,
+    "tracking_error": 0.0989
+  },
+  "alt_data_impact": {
+    "incremental_cagr": 0.0571,
+    "incremental_sharpe": 0.4186,
+    "incremental_calmar": 0.311
+  }
+}
