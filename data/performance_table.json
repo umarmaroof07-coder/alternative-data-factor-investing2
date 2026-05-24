@@ -1,0 +1,45 @@
+{
+  "strategy_gross": {
+    "label": "Strategy (Gross)",
+    "total_return": 0.5239,
+    "cagr": 0.0883,
+    "ann_vol": 0.1115,
+    "sharpe": 0.8144,
+    "sortino": 1.0185,
+    "max_drawdown": -0.1178,
+    "calmar": 0.7492
+  },
+  "strategy_net": {
+    "label": "Strategy (Net)",
+    "total_return": 0.5049,
+    "cagr": 0.0855,
+    "ann_vol": 0.1115,
+    "sharpe": 0.7921,
+    "sortino": 0.99,
+    "max_drawdown": -0.1181,
+    "calmar": 0.7242
+  },
+  "benchmark": {
+    "label": "EW Benchmark",
+    "total_return": 0.7974,
+    "cagr": 0.1249,
+    "ann_vol": 0.1509,
+    "sharpe": 0.8489,
+    "sortino": 1.1762,
+    "max_drawdown": -0.2111,
+    "calmar": 0.5918
+  },
+  "relative": {
+    "active_return_ann": -0.0398,
+    "tracking_error_ann": 0.109,
+    "information_ratio": -0.3651,
+    "alpha_vs_benchmark": -0.0394
+  },
+  "activity": {
+    "n_rebalances": 49,
+    "avg_one_way_turnover": 0.257,
+    "ann_turnover": 3.0845,
+    "est_ann_cost_drag": 0.0025,
+    "cost_bps_one_way": 10.0
+  }
+}
