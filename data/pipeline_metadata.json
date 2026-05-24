@@ -1,10 +1,10 @@
 {
   "pipeline_version": "2.0.0",
-  "run_timestamp": "2026-05-24T01:39:48.115024Z",
+  "run_timestamp": "2026-05-24T01:52:50.806122Z",
   "start_date": "2021-05-24",
   "end_date": "2026-05-22",
-  "n_trading_days": 1305,
-  "n_tickers": 105,
+  "n_trading_days": 1256,
+  "n_tickers": 104,
   "tickers": [
     "AAPL",
     "ABBV",
@@ -107,21 +107,22 @@
     "USB",
     "V",
     "VZ",
-    "WBA",
     "WFC",
     "WMT",
     "XOM"
   ],
   "quality_report": {
     "raw_shape": [
-      1305,
+      1256,
       105
     ],
     "tickers_dropped_low_price": [],
-    "tickers_dropped_missing": [],
+    "tickers_dropped_missing": [
+      "WBA"
+    ],
     "clean_shape": [
-      1305,
-      105
+      1256,
+      104
     ]
   }
 }
